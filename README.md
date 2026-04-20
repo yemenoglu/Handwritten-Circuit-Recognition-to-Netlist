@@ -7,9 +7,11 @@ The easiest way to test the system is through Google Colab.
 Open notebooks/demo.ipynb in Colab.
 Run all cells.
 The script will automatically download the pre-trained weights and process the 5 sample images in the data/ folder.
+
 🧠 Models
 YOLOv8: Text finding.
 CRNN: Recognition of handwritten labels/values.
 CNN: Component classification (Resistor, Diode, etc.).
+
 📊 Demo Dataset
 The repository includes 5 sample circuits and their corresponding ground_truth_demo.txt for evaluation.
