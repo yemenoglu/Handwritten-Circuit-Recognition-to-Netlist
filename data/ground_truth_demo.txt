@@ -1,0 +1,85 @@
+"sample3.jpg": {
+        "original_size": (2481, 1168),
+        "nodes_coords": [(763, 374), (1226, 364), (1700, 370), (769, 913), (1229, 906), (1702, 911)],
+        "graph": nx.Graph([
+            ("A", "B", {"type": "0_diode_H_white", "label": ""}),
+            ("B", "C", {"type": "0_diode_H_white", "label": ""}),
+            ("A", "D", {"type": "5_DC_power_white", "label": "5V"}),
+            ("D", "E", {"type": "2_inductor_H_white", "label": "20mH"}),
+            ("B", "E", {"type": "5_DC_power_white", "label": "5V"}),
+            ("E", "F", {"type": "1_resistor_H_white", "label": "68kohm"}),
+            ("C", "F", {"type": "5_DC_power_white", "label": "5V"}),
+        ])
+    },
+
+"sample4.jpg": {
+        "original_size": (2481, 1168),
+        "nodes_coords": [(245, 277), (734, 273), (1214, 272), (1683, 271), (2199, 268), (242, 824), (751, 811), (1228, 803), (1708, 816), (2195, 815)],
+        "graph": nx.Graph([
+            ("A", "B", {"type": "2_inductor_H_white", "label": "1mH"}),
+            ("B", "C", {"type": "1_resistor_H_white", "label": "1kohm"}),
+            ("C", "D", {"type": "0_diode_H_white", "label": ""}),
+            ("D", "E", {"type": "3_capacitor_H_white", "label": "220nF"}),
+            ("A", "F", {"type": "0_diode_V_white", "label": ""}),
+            ("F", "G", {"type": "3_capacitor_H_white", "label": "22pF"}),
+            ("G", "H", {"type": "2_inductor_H_white", "label": "1H"}),
+            ("H", "I", {"type": "1_resistor_H_white", "label": "5kohm"}),
+            ("I", "J", {"type": "0_diode_H_white", "label":""}),
+            ("E", "J", {"type": "0_diode_V_white", "label": ""}),
+           
+        ])
+    },
+
+"img20260228_18212150_parca1.jpg": {
+        "original_size": (2481, 1168),
+        "nodes_coords": [(773, 368), (1245, 376), (1716, 377), (770, 934), (1241, 920), (1717, 921)],
+        "graph": nx.Graph([
+            ("A", "B", {"type": "2_inductor_H_white", "label": "22uH"}),
+            ("B", "C", {"type": "2_inductor_H_white", "label": "4.7uH"}),
+            ("A", "D", {"type": "5_DC_power_white", "label": "12V"}),
+            ("D", "E", {"type": "3_capacitor_H_white", "label": "470nF"}),
+            ("B", "E", {"type": "1_resistor_V_white", "label": "1Mohm"}),
+            ("E", "F", {"type": "1_resistor_H_white", "label": "200ohm"}),
+            ("C", "F", {"type": "0_diode_V_white", "label": ""}),
+        ])
+    },
+
+"sample5.jpg": {
+        "original_size": (2481, 1168),
+        "nodes_coords": [(773, 368), (1245, 376), (1716, 377), (770, 934), (1241, 920), (1717, 921)],
+        "graph": nx.Graph([
+            ("A", "B", {"type": "2_inductor_H_white", "label": "1mH"}),
+            ("B", "C", {"type": "2_inductor_H_white", "label": "10mH"}),
+            ("A", "D", {"type": "5_DC_power_white", "label": "5V"}),
+            ("D", "E", {"type": "3_capacitor_H_white", "label": "10uF"}),
+            ("B", "E", {"type": "2_inductor_V_white", "label": "5mH"}),
+            ("E", "F", {"type": "1_resistor_H_white", "label": "18kohm"}),
+            ("C", "F", {"type": "0_diode_V_white", "label": ""}),
+        ])
+    },
+
+"sample1.jpg": {
+        "original_size": (2480, 1169),
+        "nodes_coords": [(711, 284), (1240, 296), (1729, 302), (711, 805), (1224, 814), (1737, 823)],
+        "graph": nx.Graph([
+            ("A", "B", {"type": "3_capacitor_H_white", "label": "22pF"}),
+            ("B", "C", {"type": "1_resistor_H_white", "label": "1Mohm"}),
+            ("C", "F", {"type": "5_DC_power_white", "label": "24V"}),
+            ("A", "D", {"type": "2_inductor_V_white", "label": "100uH"}),
+            ("D", "E", {"type": "1_resistor_H_white", "label": "1Mohm"}),
+            ("E", "F", {"type": "3_capacitor_H_white", "label": "22pF"})
+        ])
+    },
+
+"sample2.jpg": {
+        "original_size": (2481, 1168),
+        "nodes_coords": [(686, 283), (1210, 270), (1740, 270), (692, 839), (1212, 818), (1740, 810)],
+        "graph": nx.Graph([
+            ("A", "B", {"type": "0_diode_H_white", "label": ""}),
+            ("B", "C", {"type": "3_capacitor_H_white", "label": "10pF"}),
+            ("A", "D", {"type": "5_DC_power_white", "label": "3.3V"}),
+            ("D", "E", {"type": "0_diode_H_white", "label": ""}),
+            ("E", "F", {"type": "1_resistor_H_white", "label": "330ohm"}),
+            ("C", "F", {"type": "5_DC_power_white", "label": "3.3V"})
+        ])
+    }
