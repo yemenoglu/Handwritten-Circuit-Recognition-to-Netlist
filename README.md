@@ -26,7 +26,7 @@ The system operates in a streamlined, two-stage process within a single interact
 
 The easiest and recommended way to test the system is through Google Colab, which handles all dependencies and environment setups automatically.
 
-1. Open `notebooks/demo.ipynb` in Google Colab.
+1. Directly click the ![Open In Colab] button or open `notebooks/all_in_one_system.ipynb` in Google Colab 
 2. Run the cells sequentially:
    * **Cell 1 (OCR & Text Removal):** Downloads required YOLO/CRNN weights and processes the sample images to remove text.
    * **Cell 2 (Schematic & Netlist Generation):** Downloads the CNN classifier, processes the cleaned images, extracts the netlist, and plots the final CAD drawing.
