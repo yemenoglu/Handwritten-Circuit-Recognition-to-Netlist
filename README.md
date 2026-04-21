@@ -1,5 +1,9 @@
 # A Hybrid Deep Learning Pipeline for Automated Schematic Reconstruction and Netlist Extraction from Hand-Drawn Circuits
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yemenoglu/Handwritten-Circuit-Recognition-to-Netlist/notebooks/all_in_one_system.ipynb)
+
+
+
 This repository contains the official implementation of the paper: **"A Hybrid Deep Learning Pipeline for Automated Schematic Reconstruction and Netlist Extraction from Hand-Drawn Circuits"**. 
 
 Our pipeline automatically converts hand-drawn or raw circuit diagrams into clean, standardized SVG/PNG schematics and extracts their corresponding JSON netlists using a hybrid deep learning-based object detection, Optical Character Recognition (OCR), and heuristic node-matching pipeline.
