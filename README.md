@@ -1,6 +1,6 @@
 # A Hybrid Deep Learning Pipeline for Automated Schematic Reconstruction and Netlist Extraction from Hand-Drawn Circuits
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yemenoglu/Handwritten-Circuit-Recognition-to-Netlist/notebooks/all_in_one_system.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yemenoglu/Handwritten-Circuit-Recognition-to-Netlist/blob/main/notebooks/all_in_one_system.ipynb)
 
 
 
