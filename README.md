@@ -1,4 +1,4 @@
-# A Hybrid Deep Learning Pipeline for Automated Schematic Reconstruction and Circuit Graph Extraction from Hand-Drawn Circuits
+# From Hand-Drawn Circuits to Circuit Graphs: Symbol and Value Recognition with Projection-Based Connectivity Inference
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yemenoglu/Handwritten-Circuit-Recognition/blob/main/notebooks/all_in_one_system.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
