@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or the data, please cite the paper below."
+title: "Handwritten-Circuit-Recognition"
+type: software
+license: MIT
+repository-code: "https://github.com/yemenoglu/Handwritten-Circuit-Recognition"
+authors:
+  - family-names: "YEMENOĞLU"
+    given-names: "İSMAİL HAKKI"
+preferred-citation:
+  type: article
+  title: "A Hybrid Deep Learning Pipeline for Automated Schematic Reconstruction and Circuit Graph Extraction from Hand-Drawn Circuits"
+  authors:
+  - family-names: "YEMENOĞLU"
+    given-names: "İSMAİL HAKKI"
+  journal: "Sensors"
+  year: 2026
+  notes: "Manuscript submitted; update after publication."
