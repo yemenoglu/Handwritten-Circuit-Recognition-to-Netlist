@@ -9,7 +9,7 @@ authors:
     given-names: "İSMAİL HAKKI"
 preferred-citation:
   type: article
-  title: "A Hybrid Deep Learning Pipeline for Automated Schematic Reconstruction and Circuit Graph Extraction from Hand-Drawn Circuits"
+  title: "From Hand-Drawn Circuits to Circuit Graphs: Symbol and Value Recognition with Projection-Based Connectivity Inference"
   authors:
   - family-names: "YEMENOĞLU"
     given-names: "İSMAİL HAKKI"
